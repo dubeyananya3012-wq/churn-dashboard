@@ -11,7 +11,7 @@ Features
 - Sidebar filters for dynamic exploration
 
 Tech Stack
-- **Python** · **Pandas** · **Plotly** · **Streamlit**
+- Python · Pandas · Plotly · Streamlit
 
 Run Locally
 
